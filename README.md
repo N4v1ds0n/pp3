@@ -6,7 +6,7 @@ This is the Code Institute student template for deploying your third portfolio p
 
 ## Reminders
 
-- Your code must be placed in the `run.py` file
+- Your code must be placed in the `main.py` file
 - Your dependencies must be placed in the `requirements.txt` file
 - Do not edit any of the other files or your code may not deploy properly
 
